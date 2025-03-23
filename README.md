@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
- 🍊Hi, I'm **Hoa**, a beginner web developer.  🎨🌵 <br>
-I'm currently learning HTML, CSS and JavaScript.
+ 🍊Hi, I'm **Hoa**, a beginner web developer.  🎨🌵 
+
 
 ✨ It's such a beautiful day! Let's learn and grow together!  🚀
 
