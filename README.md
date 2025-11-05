@@ -6,7 +6,7 @@
 ✨ It's such a beautiful day! Let's learn and grow together!  🚀
 
 ## 🛠️ Tech Stack
-Javascript, CSS, HTML
+Javascript, CSS, HTML, REACT
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Hoa28686&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
