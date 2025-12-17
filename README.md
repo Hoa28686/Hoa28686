@@ -2,7 +2,7 @@
 
 🍊 Hiiii, I'm **Hoa**
 
-A **web developer student** based in **Finland**, with a background in **Materials Processing Engineering**.
+A **web developer student** based in Finland, with a background in Materials Processing Engineering.
 
 🎨🌵 I prefer **simple and readable solutions**. Let's learn and grow together! 🚀
 
