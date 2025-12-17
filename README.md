@@ -31,6 +31,7 @@ A **web developer student** based in Finland, with a background in Materials Pro
 **Currently Exploring**
 
 * Next.js
+* Drupal
 * CI/CD
 * PHP
 * Laravel
