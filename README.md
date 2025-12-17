@@ -1,8 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
- 🍊 Hiiii,
+ 🍊 Hiiii, I'm **Hoa**
  
- I'm **Hoa**
  A junior web developer based in Finland, with a background in Materials Processing Engineering.
  I prefer simple, readable solutions 🎨🌵 
 
