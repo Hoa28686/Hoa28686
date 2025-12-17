@@ -1,11 +1,26 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
- 🍊Hi, I'm **Hoa**, a beginner web developer with a background in Materials Processing Technology.  🎨🌵 
+ 🍊 Hi, I'm **Hoa**
+ A junior **web developer** based in **Finland**, with a background in **Materials Processing Engineering**.  
+ I prefer **simple, readable solutions**. 🎨🌵 
 
-
-✨ It's such a beautiful day! Let's learn and grow together!  🚀
+✨ What a beautiful day! Let's learn and grow together!  🚀
 
 ## 🛠️ Tech Stack
-Javascript, CSS, HTML, REACT
+
+**Frontend**
+- JavaScript
+- React
+- HTML
+- CSS
+**Backend**
+- REST API
+**Currently Exploring**
+- PHP
+- Laravel
+- Docker
+- Unit testing
+- CI/CD
+- AWS
 
 
