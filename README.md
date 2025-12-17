@@ -1,8 +1,10 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
- 🍊 Hi, I'm **Hoa**
- A junior **web developer** based in **Finland**, with a background in **Materials Processing Engineering**.  
- I prefer **simple, readable solutions**. 🎨🌵 
+ 🍊 Hiiii,
+ 
+ I'm **Hoa**
+ A junior web developer based in Finland, with a background in Materials Processing Engineering.
+ I prefer simple, readable solutions 🎨🌵 
 
 ✨ What a beautiful day! Let's learn and grow together!  🚀
 
@@ -19,11 +21,12 @@
 - REST API
   
 **Currently Exploring**
+- Next.js
+- Unit testing
+- CI/CD
 - PHP
 - Laravel
 - Docker
-- Unit testing
-- CI/CD
 - AWS
 
 
