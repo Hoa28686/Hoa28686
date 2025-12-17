@@ -26,6 +26,7 @@ A **web developer student** based in Finland, with a background in Materials Pro
 
 * Unit testing
 * SQL
+* Docker
 
 **Currently Exploring**
 
@@ -33,5 +34,4 @@ A **web developer student** based in Finland, with a background in Materials Pro
 * CI/CD
 * PHP
 * Laravel
-* Docker
 * AWS
