@@ -6,7 +6,8 @@ A **web developer student** based in **Finland**, with a background in **Materia
 
 🎨🌵 I prefer **simple and readable solutions**. Let's learn and grow together! 🚀
 
----
+
+
 
 ## 🛠️ Tech Stack
 
