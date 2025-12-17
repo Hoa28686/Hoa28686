@@ -13,8 +13,10 @@
 - React
 - HTML
 - CSS
+  
 **Backend**
 - REST API
+  
 **Currently Exploring**
 - PHP
 - Laravel
