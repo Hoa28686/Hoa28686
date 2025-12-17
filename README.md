@@ -1,6 +1,6 @@
-# 🌟 Hiiii, I'm **Hoa** 🌟
+# 🌟  Hiiii, I'm **Hoa**  🍊
 
-🍊 Welcome to my little corner! 
+Welcome to my little corner! 
 
 I'm a **web developer student** based in Finland, with a background in Materials Processing Engineering.
 
