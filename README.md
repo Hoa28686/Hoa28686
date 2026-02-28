@@ -2,8 +2,6 @@
 
 Welcome to my little corner! 
 
-I'm a **web developer student** based in Finland, with a background in Materials Processing Engineering.
-
 🎨🌵 I prefer **simple and readable solutions**. Let's learn and grow together! 🚀   
 
 
@@ -11,5 +9,5 @@ I'm a **web developer student** based in Finland, with a background in Materials
 
 **Frontend:** JavaScript, React, HTML, CSS  
 **Backend:** REST APIs  
-**Others:** Unit testing, SQL, Docker   
-**Currently Exploring:** Next.js, Drupal, CI/CD, PHP, Laravel, Docker, AWS
+**Others**: Unit testing, SQL
+**Currently Exploring:** TypeScript, PHP, Laravel, Docker, AWS
