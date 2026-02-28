@@ -9,5 +9,5 @@ Welcome to my little corner!
 
 **Frontend:** JavaScript, React, HTML, CSS  
 **Backend:** REST APIs  
-**Others**: Unit testing, SQL
+**Others**: Unit testing, SQL    
 **Currently Exploring:** TypeScript, PHP, Laravel, Docker, AWS
